@@ -2,49 +2,8 @@
 
 A free, open-source unlimited email verification tool by [UnlimitedVerifier.com](https://unlimitedverifier.com).
 
----
-
-### Want the full experience? Try [UnlimitedVerifier.com](https://unlimitedverifier.com)
-
-**Verify 1 million emails for $29. Or 10 million. Same price.**
-
-| Feature | Open Source | UnlimitedVerifier.com |
-|---------|-------------|----------------------|
-| Syntax & Domain Check | ✓ | ✓ |
-| MX Record Lookup | ✓ | ✓ |
-| SMTP Verification | ✓ | ✓ |
-| Bulk Verification | - | ✓ Unlimited |
-| Catch-All Detection | - | ✓ True-Send™ |
-| 99.5% Accuracy | - | ✓ Deep Verification |
-| API Access | - | ✓ |
-| Web Dashboard | - | ✓ |
-| CSV/Excel Export | - | ✓ |
-
-**True-Send™ Catch-All Verification** - We don't guess. We deliver a real email and watch what happens. Bounce or delivered. So you can send with confidence.
-
-**Standard verification is free forever. No credit card required.**
-
 [Start Verifying Free](https://unlimitedverifier.com) | [View Pricing](https://unlimitedverifier.com/pricing) | [API Docs](https://unlimitedverifier.com/docs)
 
----
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   _   _       _ _           _ _           _               ║
-║  | | | |_ __ | (_)_ __ ___ (_) |_ ___  __| |              ║
-║  | | | | '_ \| | | '_ ` _ \| | __/ _ \/ _` |              ║
-║  | |_| | | | | | | | | | | | | ||  __/ (_| |              ║
-║   \___/|_| |_|_|_|_| |_| |_|_|\__\___|\\__,_|              ║
-║                                                           ║
-║   __     __        _  __ _                                ║
-║   \ \   / /__ _ __(_)/ _(_) ___ _ __                      ║
-║    \ \ / / _ \ '__| | |_| |/ _ \ '__|                     ║
-║     \ V /  __/ |  | |  _| |  __/ |                        ║
-║      \_/ \___|_|  |_|_| |_|\___|_|                        ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
 
 ## What is Stage 1 Verification?
 
@@ -184,23 +143,32 @@ HELO_HOSTNAME = "verify.unlimitedverifier.com"  # HELO identity
 
 MIT License - Free to use, modify, and distribute.
 
-## Need More Power?
-
-This open-source tool is great for learning and small-scale verification. For production use:
-
-**[UnlimitedVerifier.com](https://unlimitedverifier.com)** - Verify 1 million emails for $29
-
-- **Unlimited bulk verification** - Upload CSV/Excel, get clean results in minutes
-- **True-Send™ catch-all verification** - Real delivery testing, not guessing
-- **99.5% accuracy** with Deep Verification
-- **REST API** for integration
-- **Free standard verification** - No credit card required
-
-[Get Started Free](https://unlimitedverifier.com)
 
 ## Contributing
 
 Pull requests welcome! Please keep changes minimal and focused.
+
+---
+
+### Want the full experience? Try [UnlimitedVerifier.com](https://unlimitedverifier.com)
+
+**Verify 1 million emails for $29. Or 10 million. Same price.**
+
+| Feature | Open Source | UnlimitedVerifier.com |
+|---------|-------------|----------------------|
+| Syntax & Domain Check | ✓ | ✓ |
+| MX Record Lookup | ✓ | ✓ |
+| SMTP Verification | ✓ | ✓ |
+| Bulk Verification | - | ✓ Unlimited |
+| Catch-All Detection | - | ✓ True-Send™ |
+| 99.5% Accuracy | - | ✓ Deep Verification |
+| API Access | - | ✓ |
+| Web Dashboard | - | ✓ |
+| CSV/Excel Export | - | ✓ |
+
+**True-Send™ Catch-All Verification** - We don't guess. We deliver a real email and watch what happens. Bounce or delivered. So you can send with confidence.
+
+**Standard verification is free forever. No credit card required.**
 
 ## Support
 
